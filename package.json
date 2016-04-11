@@ -1,0 +1,22 @@
+{
+  "name": "ohaoha",
+  "version": "1.0.0",
+  "description": "おはおは！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shule517/ohaoha.git"
+  },
+  "author": "shule517",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shule517/ohaoha/issues"
+  },
+  "homepage": "https://github.com/shule517/ohaoha#readme",
+  "devDependencies": {
+    "mongodb": "^2.1.16"
+  }
+}
